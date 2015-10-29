@@ -1,0 +1,33 @@
+header {
+text-align: center;
+font-family: 'Ribeye Marrow', cursive;
+padding: 30px;
+}
+ul {
+padding: 10px;
+background: white;
+text-align: center;
+}
+li {
+display: inline;
+padding: 0px 10px 0px 10px;
+font: black;
+}
+a {
+color: black;
+padding: 20px;
+font-family: arial;
+}
+h3 {
+text-align: center;
+font-family: 'Ribeye Marrow', cursive;
+
+}
+img {
+text-align: center;
+}
+
+.row {
+	text-align: center;
+	padding: 50px 50px 100px 100px;
+	}
