@@ -94,10 +94,10 @@ ul {
 .containera {
 	height: 3em;
 	left: 50%;
-	margin: -1.5em 0 0 -6em;
+	margin-left: auto;
+	margin-right; auto;
 	position: absolute;
 	vertical-align: bottom;
-	text-align: center;
 	top: 50%;
 	width: 12em;
 }
