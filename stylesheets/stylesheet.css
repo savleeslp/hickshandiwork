@@ -91,11 +91,12 @@ ul {
 	padding: 0;
 }
 
-.container {
+.containera {
 	height: 3em;
 	left: 50%;
 	margin: -1.5em 0 0 -6em;
 	position: absolute;
+	vertical-align: bottom;
 	top: 50%;
 	width: 12em;
 }
