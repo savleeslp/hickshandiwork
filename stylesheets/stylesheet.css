@@ -91,6 +91,12 @@ ul {
 	padding: 0;
 }
 
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+a[class*="entypo-"]:before {
+	font-family: 'entypo', sans-serif;
+}
+
 .containera {
 	height: 3em;
 	left: 50%;
