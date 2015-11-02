@@ -113,7 +113,7 @@ ul {
 	height: 4em;
 	line-height: 4em;
 	margin: -2.2em;
-	position: absolute;
+	position: absolute; bottom:0;
 	-webkit-transition: -webkit-transform .7s;
 	-moz-transition: -moz-transform .7s;
 	-ms-transition: -ms-transform .7s;
