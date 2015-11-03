@@ -142,9 +142,7 @@ form {
 	color: black;
 	padding: 40px;
 	}
-gform {
-	display: inline;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
+#googleForm {
+  width: 304px;
+  margin: 0 auto;
 }
