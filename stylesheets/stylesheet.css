@@ -142,3 +142,9 @@ form {
 	color: black;
 	padding: 40px;
 	}
+gform {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
