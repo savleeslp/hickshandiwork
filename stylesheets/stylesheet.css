@@ -143,7 +143,7 @@ form {
 	padding: 40px;
 	}
 gform {
-	display: block;
+	display: inline;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
